@@ -2324,7 +2324,7 @@
 
             // Styles a map in night mode.
             if ( !mapScriptId.length ) {
-                let GOOGLE_MAP_KEY = "AIzaSyA5bpEs3xlB8vhxNFErwoo3MXR64uavf6Y";
+                let GOOGLE_MAP_KEY = "AIzaSyBMbeOAMs1JEMa6bkquSeBhTRpmJ9tWB9Q";
 
                 let script = document.createElement( "script" );
                 script.type = "text/javascript";
